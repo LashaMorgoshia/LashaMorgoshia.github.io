@@ -1,0 +1,10 @@
+bin/
+obj/
+
+*.user
+*.suo
+
+tesla-private-key.pem
+*.secret
+*.token
+.env
